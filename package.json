@@ -15,7 +15,9 @@
     "lodash": "^4.17.21",
     "ssh-agent": "^0.2.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dispuzzler/nodejs-temp.git"
